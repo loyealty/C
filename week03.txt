@@ -1,0 +1,5 @@
+3주차 수업내용
+-기초 라눅수 명령어
+clone
+-기초 깃 명령어
+status, init, add, commit, config, log, puch ...
